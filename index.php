@@ -1,32 +1,17 @@
-
 <!DOCTYPE html>
-<html lang="tr">
+<html>
 <head>
     <meta charset="UTF-8">
-    <title>PHP Ödevi Ana Sayfa</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        ul {
-            margin-top: 20px;
-        }
-    </style>
+    <title>PHP Odevi</title>
 </head>
 <body>
-    <h1>PHP Ödevi (Hafta 11-12)</h1>
-
-    <p>Bu projede iki tane küçük PHP görevi yaptım:</p>
-
+    <h1>PHP Odevi</h1>
+    
+    <p>Hafta 11-12 odevleri</p>
+    
     <ul>
-        <li>
-            <a href="gorev1.php">Görev 1: 1-100 arası tek sayıları yazdıran sayfa</a>
-        </li>
-        <li>
-            <a href="gorev2.php">Görev 2: Form ile satır/sütun alıp rastgele sayılardan tablo oluşturan sayfa</a>
-        </li>
+        <li><a href="gorev1.php">Gorev 1</a></li>
+        <li><a href="gorev2.php">Gorev 2</a></li>
     </ul>
-
-    <p>Dosyaları çalıştırmak için bir PHP sunucusu (ör: XAMPP) üzerinden açabilirsiniz.</p>
 </body>
 </html>
